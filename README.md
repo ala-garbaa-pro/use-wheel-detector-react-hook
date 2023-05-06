@@ -13,7 +13,12 @@ Please keep these associations in mind when working with the actionRef value.
 
 ```
 
+# 🎥 Watch this demo video to see the `useWheelDetector` hook in action:
+
+
 [![useWheelDetector React Hook](https://img.youtube.com/vi/6F3B8br4R6g/0.jpg)](https://www.youtube.com/watch?v=6F3B8br4R6g)
+
+## [https://www.youtube.com/watch?v=6F3B8br4R6g](https://www.youtube.com/watch?v=6F3B8br4R6g)
 
 
 
