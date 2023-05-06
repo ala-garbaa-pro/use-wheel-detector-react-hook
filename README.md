@@ -13,6 +13,9 @@ Please keep these associations in mind when working with the actionRef value.
 
 ```
 
+[![useWheelDetector React Hook](https://img.youtube.com/vi/6F3B8br4R6g/0.jpg)](https://www.youtube.com/watch?v=6F3B8br4R6g)
+
+
 
 This project is a React application that includes a custom hook called useWheelDetector. The useWheelDetector hook allows you to detect and track wheel events (scrolling) in your application. It provides information such as the accumulated wheel delta, whether a wheel event has occurred, whether a wheel event is currently happening, and a calculated reference value based on the wheel delta.
 
